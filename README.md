@@ -1,3 +1,3 @@
 # Swift-HTTP
 
-A description of this package.
+Building a Swift HTTP framework
